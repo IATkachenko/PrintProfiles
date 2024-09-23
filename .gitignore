@@ -1,0 +1,6 @@
+ArchiveRepositoryManifest.json
+PrusaSlicer.ini*
+PrusaSlicerGcodeViewer.ini*
+cache/
+vendor/
+snapshots/
